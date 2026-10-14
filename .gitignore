@@ -1,0 +1,11 @@
+# Personal Canvas data: grades, inbox, announcements, join links/passcodes
+site/
+logs/
+
+# Credentials
+.env
+env
+
+__pycache__/
+*.pyc
+.DS_Store
