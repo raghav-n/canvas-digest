@@ -53,7 +53,7 @@ You can also set `CANVAS_API_URL` / `CANVAS_API_TOKEN` as environment variables,
 ### 3. Run it once
 
 ```sh
-git clone https://github.com/<you>/canvas-digest.git
+git clone https://github.com/raghav-n/canvas-digest.git
 cd canvas-digest
 python3 agent.py      # optional, a few minutes; costs Claude usage (capped by --budget)
 python3 digest.py
